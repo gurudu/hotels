@@ -7,7 +7,10 @@
 		"country": 56383,
 		"lat": 47.08508535995386,
 		"lng": 15.4248046875,
-		"weather": "clear sky"
+		"weather": "clear sky",
+		"temp":1.5
+		"temp_min":1
+		"temp_max":2
 	}, {
 		"id": 56403,
 		"name": "Vienna Hotels",
@@ -16,7 +19,10 @@
 		"country": 56383,
 		"lat": 48.23199134320962,
 		"lng": 16.36962890625,
-		"weather": "scattered clouds"
+		"weather": "scattered clouds",
+		"temp":1
+		"temp_min":1
+		"temp_max":1
 	}, {
 		"id": 56404,
 		"name": "Solden Hotels",
@@ -25,7 +31,10 @@
 		"country": 56383,
 		"lat": 47.81315451752767,
 		"lng": 13.084716796875,
-		"weather": "light rain"
+		"weather": "light rain",
+		"temp":0.5
+		"temp_min":1
+		"temp_max":0
 	}, {
 		"id": 56405,
 		"name": "Lech Hotels",
@@ -34,7 +43,10 @@
 		"country": 56383,
 		"lat": 48.30512072140392,
 		"lng": 14.30419921875,
-		"weather": "broken clouds"
+		"weather": "broken clouds",
+		"temp":3
+		"temp_min":4
+		"temp_max":2
 	},
           {
 		"id": 56406,
@@ -44,6 +56,9 @@
 		"country": 56383,
 		"lat": 48.299274199631995,
 		"lng": 14.34814453125,
-		"weather": "rain"
+		"weather": "rain",
+		 "temp":1.5
+		"temp_min":1
+		"temp_max":2
 	}]
 }
